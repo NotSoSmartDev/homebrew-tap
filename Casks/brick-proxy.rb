@@ -1,6 +1,6 @@
 cask "brick-proxy" do
-  version "1.0.1,295"
-  sha256 "69423377ab7c8427e0687a969a1578b3e907c443cb2e7de6987a54edfe071a6d"
+  version "1.0.2,297"
+  sha256 "8caee186c0cd861ffe3525b0585cb1902ff99e193c49e3c213d7afa70cc68df2"
 
   url "https://dl.br-ck.app/BrickProxy-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Brick proxy"
